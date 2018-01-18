@@ -1,0 +1,5 @@
+def afunction(a1 = 1, a2):
+    x=a1+a2
+    print(x)
+
+afunction(3, 2)
